@@ -1,2 +1,0 @@
-# PromiseSample
-Created with CodeSandbox
